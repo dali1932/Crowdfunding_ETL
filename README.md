@@ -54,12 +54,16 @@ To establish relationships between the Campaign table and the other 3 tables, we
 
 By exporting the file to Postgres, we used the schema and import the CSV files to create the tables on Postgres and named the database crowdfunding_db. Finally, we verified that each table has the correct data by running a SELECT statement for each. Below are the screenshots of the sample result for each table:
 
+### SELECT * FROM "Contacts";
 ![image](https://github.com/dali1932/Crowdfunding_ETL/assets/151655013/8aec3891-3090-4802-935f-fd6be360c412)
 
+### SELECT * FROM "Category";
 ![image](https://github.com/dali1932/Crowdfunding_ETL/assets/151655013/9912a70c-796e-4c0d-b968-e2f79fabc137)
 
+### SELECT * FROM "Subcategory";
 ![image](https://github.com/dali1932/Crowdfunding_ETL/assets/151655013/c6ffcb62-5b5f-4578-912c-5efb7a8a2739)
 
+### SELECT * FROM "Campaign";
 ![image](https://github.com/dali1932/Crowdfunding_ETL/assets/151655013/b8d88be1-7899-460b-9329-7aa39b86de7b)
 
 
