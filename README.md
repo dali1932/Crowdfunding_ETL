@@ -28,8 +28,10 @@ A Campaign DataFrame (campaign.csv) is constructed from the original data with t
 - description
 - goal
 - pledged
+- outcome
 - backers_count
-- country, currency
+- country
+- currency
 - launch_date
 - end_date
 - category_id
