@@ -1,4 +1,5 @@
 # Crowdfunding ETL
+These are the sources we used to help write our codes: [QuickDBD](http://www.quickdatabasediagrams.com/) and BCS — watching our cloud recordings, using instructor activity solutions and the class activities as references.
 
 ## Crowdfunding Data Processing
 This repository contains Python scripts for processing crowdfunding data extracted from an Excel file named crowdfunding.xlsx. The scripts utilize pandas, a powerful data manipulation library, to organize and transform the raw data into structured CSV files. Below are the steps followed in this data processing pipeline:
