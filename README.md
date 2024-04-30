@@ -37,7 +37,6 @@ A Campaign DataFrame (campaign.csv) is constructed from the original data with t
 - category_id
 - subcategory_id
 
-Additionally, a unique four-digit contact ID number from the contact.xlsx file is added.
 ### 4. Contacts DataFrame
 A Contacts DataFrame (contacts.csv) is created from the contacts.xlsx file with columns:
 - contact_id
